@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Цифровая трансформация
+  - Стартапы
+  - Бизнес-аналитика
+  - Спортивные игры
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю бизнес информатику, интересуюсь цифровыми технологиями в бизнесе и аналитикой данных.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +55,46 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Изучаю основы бизнес-анализа и внедрение информационных технологий в бизнес-процессы.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Хард скиллы
     items:
-      - name: Python
-        description: ''
-        percent: 60
+      - name: Excel
+        description: Опыт работы с аналитикой данных и финансовыми моделями
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: SQL
+        description: Основы работы с базами данных
+        percent: 60
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Power BI
+        description: Создание отчетов и визуализация данных
+        percent: 55
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Настольные игры
+        description: Интересуюсь стратегическими и командными играми
         percent: 80
+      - name: Спортивные игры
+        description: В футбол и баскетбол
+        percent: 85
+      - name: Чтение бизнес-литературы
+        description: Читаю книги по бизнесу и управлению
+        percent: 70
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 75
+  - name: Французский
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
